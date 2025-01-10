@@ -15,11 +15,8 @@ Father: Kinusinh V. Chauhan
 Mother: Ashaba K. Chauhan
 
 Hobbies: (i) cricket
-
          (ii) Singing 
-
          (iii) Traveling
-
          (iv) Studying(History, Science)
 
 Board 10th: 70%
@@ -40,7 +37,6 @@ Father: Ketan H. Suthar
 Mother: Neha K. Suthar
 
 Hobbies: (i) Studying (Mathematics and Science)
-
          (ii) Creating and trying new things
 
 Board 10th: NOT GIVEN YET
